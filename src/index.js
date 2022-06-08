@@ -135,4 +135,4 @@ class MyClient extends AkairoClient {
 }
 
 const client = new MyClient();
-client.login('OTgzOTMxNjcyODQ2Mjc4NzE3.GRyvcs.gRjI59Qe8zVIn58hRIRmQPDDPcJgpBCDVn7r8A');
+client.login(process.env.BOT_TOKEN);
