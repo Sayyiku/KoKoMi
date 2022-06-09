@@ -12,7 +12,7 @@ class MyClient extends AkairoClient {
   constructor() {
     super(
       {
-        ownerID: '488699894023061516',
+        ownerID: '740052953695780905',
       },
       {
         disableMentions: 'none',
